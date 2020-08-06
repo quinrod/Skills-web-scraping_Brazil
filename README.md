@@ -180,5 +180,7 @@
  </td></table>
  <br>
 
+## Wordcloud
 
+![](https://github.com/quinrod/Skills-web-scraping_Brazil/blob/master/wordcloudCF.png) 
 

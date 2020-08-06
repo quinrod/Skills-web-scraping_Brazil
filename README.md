@@ -15,7 +15,6 @@
 - Extract summaries from different job descriptions using word pairs that occurs more frequently within topic clutsers such as qualification, education, description, and work. 
 
 ### Baker
-
 <p align= center >
 <table cellspacing=0 border=1>
 <caption align=bottom class=captiondataframe></caption>
@@ -55,7 +54,6 @@
  <br>
 
 ### Dough maker
-
 <p align= center >
 <table cellspacing=0 border=1>
 <caption align=bottom class=captiondataframe></caption>
@@ -95,7 +93,6 @@
  <br>
 
 ### Confectioner
-
 <p align= center >
 <table cellspacing=0 border=1>
 <caption align=bottom class=captiondataframe></caption>
@@ -135,7 +132,6 @@
  <br>
 
 ### Ice cream maker
-
 <p align= center >
 <table cellspacing=0 border=1>
 <caption align=bottom class=captiondataframe></caption>
@@ -180,7 +176,17 @@
  </td></table>
  <br>
 
-## Wordcloud
+## Text mining
 
-![](https://github.com/quinrod/Skills-web-scraping_Brazil/blob/master/wordcloudCF.png) 
+### Baker
+![Baker](https://github.com/quinrod/Skills-web-scraping_Brazil/blob/master/wordcloudPD.png)
+
+### Dough maker
+![Dough maker](https://github.com/quinrod/Skills-web-scraping_Brazil/blob/master/wordcloudMA.png)
+
+### Confectioner
+![Confectioner](https://github.com/quinrod/Skills-web-scraping_Brazil/blob/master/wordcloudCF.png) 
+
+### Ice cream maker
+![Ice cream maker](https://github.com/quinrod/Skills-web-scraping_Brazil/blob/master/wordcloudTS.png)
 

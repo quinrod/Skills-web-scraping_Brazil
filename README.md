@@ -5,9 +5,9 @@
 
 [Baker](https://www.empregos.com.br/vagas/padeiro)
 
-[dough maker](https://www.empregos.com.br/vagas/masseiro/)
+[Dough maker](https://www.empregos.com.br/vagas/masseiro/)
 
-[confectioner](https://www.empregos.com.br/vagas/confeiteiro/)
+[Confectioner](https://www.empregos.com.br/vagas/confeiteiro/)
 
 <p align= center >
 <table cellspacing=0 border=1>
@@ -53,6 +53,6 @@
  </td></table>
  <br>
 
-[ice cream maker](https://www.empregos.com.br/vagas/sorvete/)
+[Ice cream maker](https://www.empregos.com.br/vagas/sorvete/)
 
 

@@ -26,12 +26,6 @@
 		<th>Resumo</th> 
 	</tr> 
 <tr> 
-<td class=cellinside>qualificação
-</td>
-<td class=cellinside>Qualificação  Possuir experiência na função de padeiro.
-</td></tr>
-		
-<tr> 
 <td class=cellinside>descrição
 </td>
 <td class=cellinside>Descrição  Irá planeja a produção de pães macarrão bolachas e demais massas e controla saída de materiais Qualificação  Experiência na função.
@@ -41,6 +35,12 @@
 <td class=cellinside>ensino
 </td>
 <td class=cellinside>Formação Ensino técnico completo na área de Confeitaria.
+</td></tr>
+
+<tr> 
+<td class=cellinside>qualificação
+</td>
+<td class=cellinside>Qualificação  Possuir experiência na função de padeiro.
 </td></tr>
 
 <tr> 
@@ -65,9 +65,9 @@
 		<th>Resumo</th> 
 	</tr> 
 <tr> 
-<td class=cellinside>qualificação
+<td class=cellinside>descrição
 </td>
-<td class=cellinside>Qualificação  Experiência no preparo de massas em gerais.
+<td class=cellinside>Descrição  Irá planeja a produção de pães macarrão bolachas e demais massas e controla saída de materiais Qualificação  Experiência na função.
 </td></tr>
 		
 <tr> 
@@ -77,9 +77,9 @@
 </td></tr>
 
 <tr> 
-<td class=cellinside>descrição
+<td class=cellinside>qualificação
 </td>
-<td class=cellinside>Descrição  Irá planeja a produção de pães macarrão bolachas e demais massas e controla saída de materiais Qualificação  Experiência na função.
+<td class=cellinside>Qualificação  Experiência no preparo de massas em gerais.
 </td></tr>
 
 <tr> 

@@ -176,6 +176,17 @@
  </td></table>
  <br>
 
-## Wordcloud
-![](https://github.com/quinrod/Skills-web-scraping_Brazil/blob/master/wordcloudCF.png) 
+## Text mining
+
+### Baker
+![Baker](https://github.com/quinrod/Skills-web-scraping_Brazil/blob/master/wordcloudPD.png)
+
+### Dough maker
+![Dough maker](https://github.com/quinrod/Skills-web-scraping_Brazil/blob/master/wordcloudMA.png)
+
+### Confectioner
+![Confectioner](https://github.com/quinrod/Skills-web-scraping_Brazil/blob/master/wordcloudCF.png) 
+
+### Ice cream maker
+![Ice cream maker](https://github.com/quinrod/Skills-web-scraping_Brazil/blob/master/wordcloudTS.png)
 

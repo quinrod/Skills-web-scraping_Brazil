@@ -9,7 +9,7 @@
 
 [confectioner](https://www.empregos.com.br/vagas/confeiteiro/)
 
-![confectioner](https://github.com/quinrod/Skills-web-scraping_Brazil/blob/master/Confeiteiro.html)
+![confectioner](https://quinrod.github.io/Skills-web-scraping_Brazil/Confeiteiro.html)
 
 [ice cream maker](https://www.empregos.com.br/vagas/sorvete/)
 

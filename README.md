@@ -11,10 +11,12 @@
 
 [Ice cream maker](https://www.empregos.com.br/vagas/sorvete/)
 
-## Latent Semantic Analysis (LSA)
+## Methodology 
+
+### Latent Semantic Analysis (LSA)
 - Extract summaries from different job descriptions using word pairs that occurs more frequently within topic clutsers such as qualification, education, description, and work. 
 
-### Baker
+*Baker
 <p align= center >
 <table cellspacing=0 border=1>
 <caption align=bottom class=captiondataframe></caption>
@@ -53,7 +55,7 @@
  </td></table>
  <br>
 
-### Dough maker
+*Dough maker
 <p align= center >
 <table cellspacing=0 border=1>
 <caption align=bottom class=captiondataframe></caption>
@@ -92,14 +94,14 @@
  </td></table>
  <br>
 
-## Text mining - Baker  
+### Text mining - Baker  
 
-### Wordcloud
-![Baker](https://github.com/quinrod/Skills-web-scraping_Brazil/blob/master/wordcloudPD.png)
+*Wordcloud
+![Baker](https://github.com/quinrod/Skills-web-scraping_Brazil/blob/master/figures/wordcloudPD.png)
 
-### Network
-![Baker](https://github.com/quinrod/Skills-web-scraping_Brazil/blob/master/networkPD.png)
+*Network
+![Baker](https://github.com/quinrod/Skills-web-scraping_Brazil/blob/master/figures/networkPD.png)
 
-### Sub network
-![Baker](https://github.com/quinrod/Skills-web-scraping_Brazil/blob/master/sub_networkPD.png)
+*Sub network
+![Baker](https://github.com/quinrod/Skills-web-scraping_Brazil/blob/master/figures/sub_networkPD.png)
 
